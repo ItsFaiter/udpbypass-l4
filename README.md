@@ -1,4 +1,4 @@
-How to use:
+How to use (fuck metrostroi and shakhmuhametik):
 
 1. Linux (ubuntu, kali)
 
