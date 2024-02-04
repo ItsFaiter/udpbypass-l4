@@ -1,3 +1,5 @@
+POWERED BY METROSTROI DDOS TEAM AND SOCK_RAW ELITE
+
 How to use (fuck metrostroi and shakhmuhametik):
 
 1. Linux (ubuntu, kali)
