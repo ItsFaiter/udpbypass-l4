@@ -8,4 +8,4 @@ How to use (fuck metrostroi and shakhmuhametik):
 - cd udpbypass-l4
 - chmod 777 UDP-STORM 
 - ./UDP-STORM
-- ./UDP-STORM IP 200 -1 60
+
