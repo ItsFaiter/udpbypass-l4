@@ -8,5 +8,5 @@ How to use (education purposes only):
 - cd udpbypass-l4
 - chmod 777 UDP-STORM 
 - ./UDP-STORM
- (change UDP-STORM to another name of script in folder)
+ - (change UDP-STORM to another name of script in folder)
 
