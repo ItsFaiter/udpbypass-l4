@@ -1,6 +1,6 @@
-POWERED BY METROSTROI DDOS TEAM AND SOCK_RAW ELITE
+POWERED BY OOO "ESCSOFTWARE"
 
-How to use (fuck metrostroi and shakhmuhametik):
+How to use (education purposes only):
 
 1. Linux (ubuntu, kali)
 
@@ -8,4 +8,5 @@ How to use (fuck metrostroi and shakhmuhametik):
 - cd udpbypass-l4
 - chmod 777 UDP-STORM 
 - ./UDP-STORM
+ (change UDP-STORM to another name of script in folder)
 
